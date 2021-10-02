@@ -1,0 +1,30 @@
+.heading
+{
+    color: tomato;
+    width: 100%;
+    margin: 0;
+    font-size: 25px;
+}
+body
+{
+    background-size: cover;
+    font-family: 'Birthstone', cursive;  
+    font-size: 40px;
+    height: 790px;
+}
+.footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color: gray;
+    color: red;
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+    height: 30px;
+}
+canvas
+{
+    box-shadow: 2px 5px 15px red;
+    margin-top: 200px;
+}
